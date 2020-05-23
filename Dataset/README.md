@@ -7,6 +7,7 @@ Download two natural image datasets.
 To construct NI dataset, you need reference the detailed description in Section 3 (Datasets) of our paper. In addition, the corresponding data splits are reported in TrainValTestSplit/NI_*.txt.
 
 ## Citation
+```
 @inproceedings{nguyen_raise_2015,
  author = {Dang-Nguyen, Duc-Tien and Pasquini, Cecilia and Conotter, Valentina and Boato, Giulia},
  title = {{RAISE}: {A} Raw Images Dataset for Digital Image Forensics},
@@ -28,3 +29,4 @@ To construct NI dataset, you need reference the detailed description in Section 
 	pages="15",
 	number="1"
 }
+```
