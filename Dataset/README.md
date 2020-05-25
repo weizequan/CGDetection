@@ -6,6 +6,8 @@ Download two natural image datasets.
 
 To construct NI(CG) dataset, you need reference the detailed description in Section 3 (Datasets) of our paper. In addition, the corresponding data splits are reported in TrainValTestSplit/NI(CG)_*.txt.
 
+The images from four rendering software tools will be shared after obtaining agreements.
+
 ## Citation
 ```
 @inproceedings{nguyen_raise_2015,
