@@ -56,8 +56,8 @@ def unpaired_image_interpolation(img_a, img_b, alpha):
 	return img_out
 
 data_root = '/home/wzquan/publicData/NIvsCG/RRVData/RRVNature-Corona'
-src_dir = os.path.join(data_root, 'spartition512_4_c75/train/CGG')
-ref_dir = os.path.join(data_root, 'spartition512_4_c75/train/Real')
+src_dir = os.path.join(data_root, 'train/CGG')
+ref_dir = os.path.join(data_root, 'train/Real')
 dst_dir = os.path.join(data_root, 'unpairLinear')
 
 if os.path.exists(dst_dir):
