@@ -1,7 +1,7 @@
 # CGDetection
 
 ## Prerequisites
-- Python 3
+- Python 3.7
 - NVIDIA GPU + CUDA cuDNN
 - PyTorch 1.1.0
 
