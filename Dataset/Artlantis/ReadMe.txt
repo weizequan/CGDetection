@@ -1,0 +1,1 @@
+Compared with our collected images when conducting this CG detection work, the current version of many images in Artlantis gallery somehow have higher quality in terms of JPEG compression. Therefore, we recommend compressing these images with QF reported in img_QF.txt.
