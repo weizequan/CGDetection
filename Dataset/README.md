@@ -12,6 +12,8 @@ CG Dataset preparation.
 - `Corona`: download the images using Corona/Corona_URL.txt, and then run Corona/imageCrop.py to remove the logo information.
 - `VRay`: follow the process in VRay/ReadMe.txt, and images in learnVRay can be download from [learnVRay](https://drive.google.com/file/d/1EnJ-C2tZGG6IMQLKVv3MrcFCPecXIZJE/view?usp=sharing).
 
+Note that，the CG images in Corona and VRay have been resized when cropping the logo information. Therefore, the images in Artlantis and Autodesk need to be resized using bicubic interpolation so that the shorter edge of each resized image has 512 pixels. 
+
 ## Citation
 ```
 @inproceedings{nguyen_raise_2015,
