@@ -6,7 +6,11 @@ Download two natural image datasets.
 
 To construct NI(CG) dataset, you need reference the detailed description in Section 3 (Datasets) of our paper. In addition, the corresponding data splits are reported in TrainValTestSplit/NI(CG)_*.txt.
 
-The images from four rendering software tools will be shared after obtaining agreements.
+CGDataset preparation.
+- `Artlantis`: 
+- `Autodesk`: download the images from [Autodesk](https://drive.google.com/file/d/1rTB0OyVPXe1GvRnBJ_zM1_1Jxj5hoqAT/view?usp=sharing).
+- `Corona`: download the images using Corona/Corona_URL.txt, and then run Corona/imageCrop.py to remove the logo information.
+- `VRay`: follow the process in VRay/ReadMe.txt, and images in learnVRay can be download from [learnVRay](https://drive.google.com/file/d/1EnJ-C2tZGG6IMQLKVv3MrcFCPecXIZJE/view?usp=sharing).
 
 ## Citation
 ```
